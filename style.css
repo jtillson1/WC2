@@ -137,7 +137,7 @@ border: solid 3px var(--green);
 }
 .grid-item{
   padding: 2.2rem 0;
-  border: 5px solid var(--darkgreen);
+  border: 5px solid var(--green);
   display: flex;
   align-items: center;
   justify-content: center;
